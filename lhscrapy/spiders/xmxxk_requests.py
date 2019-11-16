@@ -97,4 +97,6 @@ def login(username, password):
 
 
 if __name__ == '__main__':
-    cookies, cookie_str_lst, cookie_file, total_guid_lst = login('wxjtj', '11111')
+    username = input('username')
+    password = input('password')
+    cookies, cookie_str_lst, cookie_file, total_guid_lst = login(username, password)
