@@ -210,7 +210,7 @@ pycurl==7.43.0.2
 PyDispatcher==2.0.5
 pydivert==2.1.0
 pyflakes==2.1.1
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyJWT==1.7.1
 pylint==2.3.1
