@@ -260,7 +260,7 @@ scrapy-djangoitem==1.1.1
 scrapy-proxies==0.4
 scrapy-random-useragent==0.2
 scrapy-selenium==0.0.7
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 seaborn==0.9.0
 selenium==3.141.0
 Send2Trash==1.5.0
